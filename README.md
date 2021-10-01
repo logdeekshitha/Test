@@ -9,4 +9,4 @@ Followed by Ansible & docker
 Followed by Kubernetes
 
 Regards
-Deekshitha
+Deekshitha Reddy
